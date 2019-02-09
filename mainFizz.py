@@ -1,4 +1,4 @@
-# Fizz Buzz Problem
+# My Fizz Buzz Solution
 # Written by Spencer Villarreal
 
 # 1) Count 1, 2, 3, 4, 5 . . .
